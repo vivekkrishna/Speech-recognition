@@ -12,6 +12,11 @@ https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
 Some of the Blog posts followed:
 1. https://ideasforeversite.wordpress.com/2018/03/18/automatic-speech-recognition/
 2. http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/ 
+3. Voice Activity Detection : https://pypi.python.org/pypi/webrtcvad , https://github.com/wiseman/py-webrtcvad/blob/master/example.py
+
+https://github.com/marsbroshok/VAD-python
+
+https://github.com/marsbroshok/VAD-python/blob/master/detectVoiceInWave.py
 
 Libraries used:
 
@@ -27,4 +32,6 @@ To do:
 
 Boiler plate:
 https://www.kaggle.com/davids1992/speech-representation-and-data-exploration 
+
+
 
