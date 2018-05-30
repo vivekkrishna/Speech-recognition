@@ -31,11 +31,14 @@ remove _background_noise_ folder from data/train/audio and run Speech_recognitio
 
 ## References:
 
-https://www.kaggle.com/davids1992/speech-representation-and-data-exploration 
-**MFCC** : For extracting MFCC features : https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html
+**Boiler Plate** : https://www.kaggle.com/davids1992/speech-representation-and-data-exploration 
+
+**MFCC** : https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html
+
 **Keras** : https://keras.io/layers/recurrent/#lstm
 https://ideasforeversite.wordpress.com/2018/03/18/automatic-speech-recognition/
 http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/ 
+
 **Voice Activity Detection** : https://pypi.python.org/pypi/webrtcvad , https://github.com/wiseman/py-webrtcvad/blob/master/example.py,
 https://github.com/marsbroshok/VAD-python, https://github.com/marsbroshok/VAD-python/blob/master/detectVoiceInWave.py
 
